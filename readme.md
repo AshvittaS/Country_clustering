@@ -1,4 +1,5 @@
 ﻿# Country Development Clustering
+Deployed link : [link] (https://countryclustering-jbqk8xjy2dsezwbqloyp4m.streamlit.app/)
 
 This project builds an interactive Streamlit app for clustering countries based on economic and social indicators using a custom unsupervised learning pipeline.
 
